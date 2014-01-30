@@ -1,0 +1,6 @@
+rails new pro2013_app --skip-test-unit
+
+Secret_token.rb needs to end with self generate app name: Pro2013App for the token holder
+Fields:
+player: badge:string first:string last:string
+play: badge:string 
