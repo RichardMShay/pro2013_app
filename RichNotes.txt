@@ -1,7 +1,10 @@
+<<<<<<< Local Changes
 rails new pro2013_app --skip-test-unit
 
 Secret_token.rb needs to end with self generate app name: Pro2013App for the token holder
 Fields:
+<<<<<<< Local Changes
+<<<<<<< Local Changes
 player: badge:string
 	    first:string
 	    last:string
@@ -14,3 +17,13 @@ play: badge:string
 	  bid:string
 	  tiebreak:string
 	  ptsbehind:string
+	  
+Static pages
+	  home
+	  help
+	  about
+	  standings
+	  results
+default pages
+	players
+	plays

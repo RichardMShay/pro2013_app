@@ -7,4 +7,10 @@ class StaticPagesController < ApplicationController
   
   def about
   end
+  
+  def standings
+  end
+  
+  def results
+  end
 end
